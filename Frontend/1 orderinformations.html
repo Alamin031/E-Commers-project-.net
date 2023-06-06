@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en-US">
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+	<script>
+		var app = angular.module("my-app",[]);
+		app.controller('orderinformationsCtrl1',function($scope,$http){
+			$http.get("https://localhost:44395/api/orderinformations/10").then(function(resp){
+			
+			    $scope.post = resp.data;
+			},
+			function(err){
+			debugger;
+			});
+		});
+		
+	</script>
+	<body ng-app="my-app">
+		<div ng-controller="orderinformationsCtrl1">
+			<h2>Assign Id: {{post.Id}}</h2>
+			<p>Order_Id: {{post.or_id}}</p>
+			<p>User_Order_Id:  {{post.user_or_id}}</p>
+		</div>
+	</body>
+</html>

@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{93FAFE2C-A005-4025-AE13-89F8511BEE25}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BLL</RootNamespace>
+    <AssemblyName>BLL</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AutoMapper, Version=10.0.0.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005, processorArchitecture=MSIL">
+      <HintPath>..\packages\AutoMapper.10.0.0\lib\net461\AutoMapper.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="DTOs\AdminDTO.cs" />
+    <Compile Include="DTOs\AdminModeratorDTO.cs" />
+    <Compile Include="DTOs\AssignProductDTO.cs" />
+    <Compile Include="DTOs\CartDTO.cs" />
+    <Compile Include="DTOs\ChangePasswordDTO.cs" />
+    <Compile Include="DTOs\DeliveryManDTO.cs" />
+    <Compile Include="DTOs\DeliveryManReviewDTO.cs" />
+    <Compile Include="DTOs\Delivery_Location_MsgDTO.cs" />
+    <Compile Include="DTOs\DFeedBackDTO.cs" />
+    <Compile Include="DTOs\DUserDTO.cs" />
+    <Compile Include="DTOs\FeedBackDTO.cs" />
+    <Compile Include="DTOs\ModeratorDTO.cs" />
+    <Compile Include="DTOs\ModeratorSalesReportDTO.cs" />
+    <Compile Include="DTOs\OrderDetailsDTO.cs" />
+    <Compile Include="DTOs\OrderDTO.cs" />
+    <Compile Include="DTOs\orderinformationDTO.cs" />
+    <Compile Include="DTOs\OrderProductDTO.cs" />
+    <Compile Include="DTOs\ProductCartDTO.cs" />
+    <Compile Include="DTOs\ProductDTO.cs" />
+    <Compile Include="DTOs\ProductOrderDetailsDTO.cs" />
+    <Compile Include="DTOs\ProductOrderDTO.cs" />
+    <Compile Include="DTOs\ProductReviewDTO.cs" />
+    <Compile Include="DTOs\ProductSellerDTO.cs" />
+    <Compile Include="DTOs\ReciveProductDTO.cs" />
+    <Compile Include="DTOs\ReviewDTO.cs" />
+    <Compile Include="DTOs\ReviewFeedBackDTO.cs" />
+    <Compile Include="DTOs\SalesReportDTO.cs" />
+    <Compile Include="DTOs\SalesReportReportedByDTO.cs" />
+    <Compile Include="DTOs\SearchModelDTO.cs" />
+    <Compile Include="DTOs\SellerDTO.cs" />
+    <Compile Include="DTOs\ShowAssignProductDTO.cs" />
+    <Compile Include="DTOs\showOrderDTO.cs" />
+    <Compile Include="DTOs\ShowReviewDTO.cs" />
+    <Compile Include="DTOs\TokenDTO.cs" />
+    <Compile Include="DTOs\UserDTO.cs" />
+    <Compile Include="DTOs\UserReviewDTO.cs" />
+    <Compile Include="DTOs\User_OrderDTO.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\AdminService.cs" />
+    <Compile Include="Services\AssignProductService.cs" />
+    <Compile Include="Services\AuthService.cs" />
+    <Compile Include="Services\DelivaryManReviewService.cs" />
+    <Compile Include="Services\DeliveryManService.cs" />
+    <Compile Include="Services\Delivery_Location_Msg_Service.cs" />
+    <Compile Include="Services\DFeedBackService.cs" />
+    <Compile Include="Services\ManageCartService.cs" />
+    <Compile Include="Services\ManageFeedBackService.cs" />
+    <Compile Include="Services\ManageOrderService.cs" />
+    <Compile Include="Services\ManageProductOrderService.cs" />
+    <Compile Include="Services\ManageReviewService.cs" />
+    <Compile Include="Services\ManageUserOrderService.cs" />
+    <Compile Include="Services\ManageUserService.cs" />
+    <Compile Include="Services\ModeratorService.cs" />
+    <Compile Include="Services\OrderDetailsService.cs" />
+    <Compile Include="Services\orderinformationService.cs" />
+    <Compile Include="Services\OrderService.cs" />
+    <Compile Include="Services\ProductService.cs" />
+    <Compile Include="Services\ReciveProductService.cs" />
+    <Compile Include="Services\SalersReportService.cs" />
+    <Compile Include="Services\SearchService.cs" />
+    <Compile Include="Services\SellerService.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{3150ff32-2a40-426d-96b0-b862da9cd59d}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

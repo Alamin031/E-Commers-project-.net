@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en-US">
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+	<script>
+		var app = angular.module("my-app",[]);
+		
+		app.factory('interceptor',[function(){
+			var interceptor = {
+				request:function(config){
+					config.headers.Authorization = localStorage.getItem("tkey");
+					debugger;
+					return config;
+				},
+				response:function(response){
+					debugger;
+					return response;
+				}
+			};
+			return interceptor;
+		}]);
+		
+		app.config(function($httpProvider){
+			$httpProvider.interceptors.push('interceptor');
+		});
+		
+		app.controller('loginCtrl',function($scope,$http){
+			$scope.login=function(){
+				var v = $scope.l;
+				$http.post("https://localhost:44395/api/DeliveryMan/login",v).then(function(resp){
+					localStorage.setItem("tkey",resp.data.TKey);
+				},function(err){
+				
+				});
+				
+				
+			};
+		});
+		app.controller('postCmntCtrl',function($scope,$http){
+			$scope.load=function(){
+				//alert("OK");
+				$http.get("https://localhost:44395/api/orderinformations/2/Orders").then(function(resp){
+					$scope.post = resp.data;
+				},function(err){
+					$scope.msg = err.data.Msg;
+				});
+			};
+			
+		});
+		
+		app.controller('orderinformationsCtrl1',function($scope,$http){
+		$scope.load=function(){
+			$http.get("https://localhost:44395/api/orderinformations/10").then(function(resp){
+			
+			    $scope.post = resp.data;
+			},
+			function(err){
+			debugger;
+			  });
+			};
+		});
+		
+		app.controller('orderinformationsCtrl',function($scope,$http){
+		$scope.load=function(){
+			$http.get("https://localhost:44395/api/orderinformations").then(function(resp){
+				$scope.Orderinformations = resp.data;
+			},
+			function(err){
+			debugger;
+			});
+		};
+	});
+	
+	
+	app.controller('DeliveryManReviewCtrl',function($scope,$http){
+			$scope.load=function(){
+			$http.get("https://localhost:44395/api/DeliveryManReviews/get").then(function(resp){
+				$scope.DeliveryManReviews = resp.data;
+			},
+			function(err){
+			debugger;
+			  });
+			};
+		});
+		
+		
+			app.controller('AssignProductsCtrl1',function($scope,$http){
+			$scope.load=function(){
+			$http.get("https://localhost:44395/api/AssignProducts").then(function(resp){
+				$scope.AssignProducts = resp.data;
+			},
+			function(err){
+			debugger;
+			  });
+			};
+		});
+		
+		
+		
+		
+		
+		app.controller('DeliveryManReviewCtrl1',function($scope,$http){
+			$scope.load=function(){
+			$http.get("https://localhost:44395/api/DeliveryManReviews/1/user").then(function(resp){
+				$scope.user = resp.data;
+			},
+			function(err){
+			debugger;
+			  });
+			};
+		});
+	</script>
+	<body ng-app="my-app">
+		<div ng-controller="loginCtrl">
+			<form ng-submit="login()">
+				<input type="text" ng-model="l.Uname" placeholder="Username"> <br>
+				<input type="password" ng-model="l.Password" placeholder = "Password"> <br>
+				<input type="submit">
+			</form>
+		</div>
+		
+		<div ng-controller="postCmntCtrl">
+			<h2>{{msg}}</h2>
+			<button ng-click="load()">Order And Product Info<button>
+			<p>{{post.or_id}} by {{post.user_or_id}}</p>
+			<ul>	
+				<li ng-repeat="c in post.Orders">
+					{{c.Location}} <sub>{{c.OrderType}} [{{c.OrderDate}}]</sub>
+				</li>
+			</ul>
+		</div>
+		
+		<div ng-controller="orderinformationsCtrl">
+		<button ng-click="load()">All User Order<button>
+			<table border=1 style="border-collapse:collapse">
+				<tr>
+					<th>Id</th>
+					<th>Order_Id</th>
+					<th>User_Order_Id</th>
+				</tr>
+				<tr ng-repeat="p in Orderinformations">
+					<td>{{p.Id}}</td>
+					<td>{{p.or_id}}</td>
+					<td>{{p.user_or_id}}</td>
+				
+				</tr>
+			</table>
+		</div>
+		
+		<div ng-controller="orderinformationsCtrl1">
+			<button ng-click="load()">Order<button>
+			<h2>Assign Id: {{post.Id}}</h2>
+			<p>Order_Id: {{post.or_id}}</p>
+			<p>User_Order_Id:  {{post.user_or_id}}</p>
+		</div>
+		
+		
+		<div ng-controller="DeliveryManReviewCtrl">
+			<button ng-click="load()">User Review<button>
+			<table border=1 style="border-collapse:collapse">
+				<tr>
+					<th>Id</th>
+					<th>User Review</th>
+                    <th>Review Date</th>
+					<th>User_Id</th>
+					<th>User_Order_Id</th>
+				</tr>
+				<tr ng-repeat="p in DeliveryManReviews">
+					<td>{{p.Id}}</td>
+					<td>{{p.review}}</td>
+					<td>{{p.date}}</td>
+					<td>{{p.u_id}}</td>
+					<td>{{p.o_id}}</td>
+				
+				</tr>
+			</table>
+		</div>
+		
+		
+		<div ng-controller="DeliveryManReviewCtrl1">
+			<button ng-click="load()">Review<button>
+			<table border=1 style="border-collapse:collapse">
+				<tr>
+					<th>User Name</th>
+					<th>Order Date</th>
+                    <th>Order Type</th>
+					<th>User Review</th>
+					<th>date</th>
+				</tr>
+				<tr ng-repeat="p in user">
+					<td>{{p.Name}}</td>
+					<td>{{p.OrderDate}}</td>
+					<td>{{p.OrderType}}</td>
+					<td>{{p.User Review}}</td>
+					<td>{{p.date}}</td>
+				
+				</tr>
+			</table>
+		</div>
+		
+		
+		<div ng-controller="AssignProductsCtrl1">
+			<button ng-click="load()">Show AssignProducts<button>
+			<table border=1 style="border-collapse:collapse">
+				<tr>
+					<th>Id</th>
+					<th>Product Name</th>
+                    <th>Product Description</th>
+					<th>Product Type</</th>
+					<th>DeliveryDate</th>
+					<th>Delivery_name</th>
+					<th>m_Id</th>
+				</tr>
+				<tr ng-repeat="p in AssignProducts">
+					<td>{{p.Id}}</td>
+					<td>{{p.ProductName}}</td>
+					<td>{{p.ProductDescription}}</td>
+					<td>{{p.ProductType}}</td>
+					<td>{{p.DeliveryDate}}</td>
+					<td>{{p.Delivery_name}}</td>
+					<td>{{p.m_Id}}</td>
+				
+				</tr>
+			</table>
+		</div>
+		
+		
+	
+		
+		
+		
+		
+	</body>
+</html>

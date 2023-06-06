@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en-US">
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+	<script>
+		var app = angular.module("my-app",[]);
+		app.controller('DeliveryManReviewCtrl',function($scope,$http){
+			$http.get("https://localhost:44395/api/DeliveryManReviews/get").then(function(resp){
+				$scope.DeliveryManReviews = resp.data;
+			},
+			function(err){
+			debugger;
+			});
+		});
+		
+	</script>
+	<body ng-app="my-app">
+		<div ng-controller="DeliveryManReviewCtrl">
+			<table border=1 style="border-collapse:collapse">
+				<tr>
+					<th>Id</th>
+					<th>User Review</th>
+                    <th>Review Date</th>
+					<th>User_Id</th>
+					<th>User_Order_Id</th>
+				</tr>
+				<tr ng-repeat="p in DeliveryManReviews">
+					<td>{{p.Id}}</td>
+					<td>{{p.review}}</td>
+					<td>{{p.date}}</td>
+					<td>{{p.u_id}}</td>
+					<td>{{p.o_id}}</td>
+				
+				</tr>
+			</table>
+		</div>
+	</body>
+</html>

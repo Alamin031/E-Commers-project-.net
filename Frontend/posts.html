@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en-US">
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+	<script>
+		var app = angular.module("my-app",[]);
+		app.controller('orderinformationsCtrl',function($scope,$http){
+			$http.get("https://localhost:44395/api/orderinformations").then(function(resp){
+				$scope.Orderinformations = resp.data;
+			},
+			function(err){
+			debugger;
+			});
+		});
+		
+	</script>
+	<body ng-app="my-app">
+		<div ng-controller="orderinformationsCtrl">
+			<table border=1 style="border-collapse:collapse">
+				<tr>
+					<th>Id</th>
+					<th>Order_Id</th>
+					<th>User_Order_Id</th>
+				</tr>
+				<tr ng-repeat="p in Orderinformations">
+					<td>{{p.Id}}</td>
+					<td>{{p.or_id}}</td>
+					<td>{{p.user_or_id}}</td>
+				
+				</tr>
+			</table>
+		</div>
+	</body>
+</html>

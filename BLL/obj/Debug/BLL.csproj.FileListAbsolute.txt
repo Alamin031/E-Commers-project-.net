@@ -1,0 +1,118 @@
+G:\net\PcBuild\BLL\bin\Debug\BLL.dll
+G:\net\PcBuild\BLL\bin\Debug\BLL.pdb
+G:\net\PcBuild\BLL\bin\Debug\AutoMapper.dll
+G:\net\PcBuild\BLL\bin\Debug\DAL.dll
+G:\net\PcBuild\BLL\bin\Debug\EntityFramework.dll
+G:\net\PcBuild\BLL\bin\Debug\DAL.pdb
+G:\net\PcBuild\BLL\bin\Debug\DAL.dll.config
+G:\net\PcBuild\BLL\bin\Debug\AutoMapper.xml
+G:\net\PcBuild\BLL\bin\Debug\EntityFramework.xml
+G:\net\PcBuild\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+G:\net\PcBuild\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+G:\net\PcBuild\BLL\obj\Debug\BLL.csproj.CopyComplete
+G:\net\PcBuild\BLL\obj\Debug\BLL.dll
+G:\net\PcBuild\BLL\obj\Debug\BLL.pdb
+C:\Users\Nadim\Desktop\PcBuild\BLL\bin\Debug\BLL.dll
+C:\Users\Nadim\Desktop\PcBuild\BLL\bin\Debug\BLL.pdb
+C:\Users\Nadim\Desktop\PcBuild\BLL\bin\Debug\AutoMapper.dll
+C:\Users\Nadim\Desktop\PcBuild\BLL\bin\Debug\DAL.dll
+C:\Users\Nadim\Desktop\PcBuild\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Nadim\Desktop\PcBuild\BLL\bin\Debug\DAL.pdb
+C:\Users\Nadim\Desktop\PcBuild\BLL\bin\Debug\DAL.dll.config
+C:\Users\Nadim\Desktop\PcBuild\BLL\bin\Debug\AutoMapper.xml
+C:\Users\Nadim\Desktop\PcBuild\BLL\bin\Debug\EntityFramework.xml
+C:\Users\Nadim\Desktop\PcBuild\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Nadim\Desktop\PcBuild\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Nadim\Desktop\PcBuild\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Nadim\Desktop\PcBuild\BLL\obj\Debug\BLL.dll
+C:\Users\Nadim\Desktop\PcBuild\BLL\obj\Debug\BLL.pdb
+D:\ASP.Net Work\E-Commers-.net\BLL\bin\Debug\BLL.dll
+D:\ASP.Net Work\E-Commers-.net\BLL\bin\Debug\BLL.pdb
+D:\ASP.Net Work\E-Commers-.net\BLL\bin\Debug\AutoMapper.dll
+D:\ASP.Net Work\E-Commers-.net\BLL\bin\Debug\DAL.dll
+D:\ASP.Net Work\E-Commers-.net\BLL\bin\Debug\EntityFramework.dll
+D:\ASP.Net Work\E-Commers-.net\BLL\bin\Debug\DAL.pdb
+D:\ASP.Net Work\E-Commers-.net\BLL\bin\Debug\DAL.dll.config
+D:\ASP.Net Work\E-Commers-.net\BLL\bin\Debug\AutoMapper.xml
+D:\ASP.Net Work\E-Commers-.net\BLL\bin\Debug\EntityFramework.xml
+D:\ASP.Net Work\E-Commers-.net\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\ASP.Net Work\E-Commers-.net\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\ASP.Net Work\E-Commers-.net\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\ASP.Net Work\E-Commers-.net\BLL\obj\Debug\BLL.dll
+D:\ASP.Net Work\E-Commers-.net\BLL\obj\Debug\BLL.pdb
+D:\ASP.Net Work\E-Commers-.net\BLL\bin\Debug\BLL.dll.config
+C:\Users\pc\Source\Repos\E-Commers-.net\BLL\bin\Debug\BLL.dll.config
+C:\Users\pc\Source\Repos\E-Commers-.net\BLL\bin\Debug\BLL.dll
+C:\Users\pc\Source\Repos\E-Commers-.net\BLL\bin\Debug\BLL.pdb
+C:\Users\pc\Source\Repos\E-Commers-.net\BLL\bin\Debug\AutoMapper.dll
+C:\Users\pc\Source\Repos\E-Commers-.net\BLL\bin\Debug\DAL.dll
+C:\Users\pc\Source\Repos\E-Commers-.net\BLL\bin\Debug\EntityFramework.dll
+C:\Users\pc\Source\Repos\E-Commers-.net\BLL\bin\Debug\DAL.pdb
+C:\Users\pc\Source\Repos\E-Commers-.net\BLL\bin\Debug\DAL.dll.config
+C:\Users\pc\Source\Repos\E-Commers-.net\BLL\bin\Debug\AutoMapper.xml
+C:\Users\pc\Source\Repos\E-Commers-.net\BLL\bin\Debug\EntityFramework.xml
+C:\Users\pc\Source\Repos\E-Commers-.net\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\pc\Source\Repos\E-Commers-.net\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\pc\Source\Repos\E-Commers-.net\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\pc\Source\Repos\E-Commers-.net\BLL\obj\Debug\BLL.dll
+C:\Users\pc\Source\Repos\E-Commers-.net\BLL\obj\Debug\BLL.pdb
+C:\Users\Nadim\Source\Repos\Final\BLL\bin\Debug\BLL.dll.config
+C:\Users\Nadim\Source\Repos\Final\BLL\bin\Debug\BLL.dll
+C:\Users\Nadim\Source\Repos\Final\BLL\bin\Debug\BLL.pdb
+C:\Users\Nadim\Source\Repos\Final\BLL\bin\Debug\AutoMapper.dll
+C:\Users\Nadim\Source\Repos\Final\BLL\bin\Debug\DAL.dll
+C:\Users\Nadim\Source\Repos\Final\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Nadim\Source\Repos\Final\BLL\bin\Debug\DAL.pdb
+C:\Users\Nadim\Source\Repos\Final\BLL\bin\Debug\DAL.dll.config
+C:\Users\Nadim\Source\Repos\Final\BLL\bin\Debug\AutoMapper.xml
+C:\Users\Nadim\Source\Repos\Final\BLL\bin\Debug\EntityFramework.xml
+C:\Users\Nadim\Source\Repos\Final\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Nadim\Source\Repos\Final\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Nadim\Source\Repos\Final\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Nadim\Source\Repos\Final\BLL\obj\Debug\BLL.dll
+C:\Users\Nadim\Source\Repos\Final\BLL\obj\Debug\BLL.pdb
+C:\Users\addhr\source\repos\Final\BLL\bin\Debug\BLL.dll.config
+C:\Users\addhr\source\repos\Final\BLL\bin\Debug\BLL.dll
+C:\Users\addhr\source\repos\Final\BLL\bin\Debug\BLL.pdb
+C:\Users\addhr\source\repos\Final\BLL\bin\Debug\AutoMapper.dll
+C:\Users\addhr\source\repos\Final\BLL\bin\Debug\DAL.dll
+C:\Users\addhr\source\repos\Final\BLL\bin\Debug\EntityFramework.dll
+C:\Users\addhr\source\repos\Final\BLL\bin\Debug\DAL.pdb
+C:\Users\addhr\source\repos\Final\BLL\bin\Debug\DAL.dll.config
+C:\Users\addhr\source\repos\Final\BLL\bin\Debug\AutoMapper.xml
+C:\Users\addhr\source\repos\Final\BLL\bin\Debug\EntityFramework.xml
+C:\Users\addhr\source\repos\Final\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\addhr\source\repos\Final\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\addhr\source\repos\Final\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\addhr\source\repos\Final\BLL\obj\Debug\BLL.dll
+C:\Users\addhr\source\repos\Final\BLL\obj\Debug\BLL.pdb
+C:\Users\pc\source\repos\Final\BLL\bin\Debug\BLL.dll.config
+C:\Users\pc\source\repos\Final\BLL\bin\Debug\BLL.dll
+C:\Users\pc\source\repos\Final\BLL\bin\Debug\BLL.pdb
+C:\Users\pc\source\repos\Final\BLL\bin\Debug\AutoMapper.dll
+C:\Users\pc\source\repos\Final\BLL\bin\Debug\DAL.dll
+C:\Users\pc\source\repos\Final\BLL\bin\Debug\EntityFramework.dll
+C:\Users\pc\source\repos\Final\BLL\bin\Debug\DAL.pdb
+C:\Users\pc\source\repos\Final\BLL\bin\Debug\DAL.dll.config
+C:\Users\pc\source\repos\Final\BLL\bin\Debug\AutoMapper.xml
+C:\Users\pc\source\repos\Final\BLL\bin\Debug\EntityFramework.xml
+C:\Users\pc\source\repos\Final\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Final\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Final\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\pc\source\repos\Final\BLL\obj\Debug\BLL.dll
+C:\Users\pc\source\repos\Final\BLL\obj\Debug\BLL.pdb
+C:\Users\mdhri\Source\Repos\net_final\BLL\bin\Debug\BLL.dll.config
+C:\Users\mdhri\Source\Repos\net_final\BLL\bin\Debug\BLL.dll
+C:\Users\mdhri\Source\Repos\net_final\BLL\bin\Debug\BLL.pdb
+C:\Users\mdhri\Source\Repos\net_final\BLL\bin\Debug\AutoMapper.dll
+C:\Users\mdhri\Source\Repos\net_final\BLL\bin\Debug\DAL.dll
+C:\Users\mdhri\Source\Repos\net_final\BLL\bin\Debug\EntityFramework.dll
+C:\Users\mdhri\Source\Repos\net_final\BLL\bin\Debug\DAL.pdb
+C:\Users\mdhri\Source\Repos\net_final\BLL\bin\Debug\DAL.dll.config
+C:\Users\mdhri\Source\Repos\net_final\BLL\bin\Debug\AutoMapper.xml
+C:\Users\mdhri\Source\Repos\net_final\BLL\bin\Debug\EntityFramework.xml
+C:\Users\mdhri\Source\Repos\net_final\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\mdhri\Source\Repos\net_final\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\mdhri\Source\Repos\net_final\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\mdhri\Source\Repos\net_final\BLL\obj\Debug\BLL.dll
+C:\Users\mdhri\Source\Repos\net_final\BLL\obj\Debug\BLL.pdb

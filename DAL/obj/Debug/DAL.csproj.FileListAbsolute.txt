@@ -1,0 +1,176 @@
+G:\net\PcBuild\DAL\bin\Debug\DAL.dll.config
+G:\net\PcBuild\DAL\bin\Debug\DAL.dll
+G:\net\PcBuild\DAL\bin\Debug\DAL.pdb
+G:\net\PcBuild\DAL\bin\Debug\EntityFramework.dll
+G:\net\PcBuild\DAL\bin\Debug\EntityFramework.SqlServer.dll
+G:\net\PcBuild\DAL\bin\Debug\EntityFramework.xml
+G:\net\PcBuild\DAL\bin\Debug\EntityFramework.SqlServer.xml
+G:\net\PcBuild\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+G:\net\PcBuild\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+G:\net\PcBuild\DAL\obj\Debug\DAL.csproj.CopyComplete
+G:\net\PcBuild\DAL\obj\Debug\DAL.dll
+G:\net\PcBuild\DAL\obj\Debug\DAL.pdb
+G:\net\PcBuild\DAL\obj\Debug\DAL.Migrations.InitSellerT.resources
+G:\net\PcBuild\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+G:\net\PcBuild\DAL\obj\Debug\DAL.Migrations.seedSellerData.resources
+C:\Users\Nadim\Desktop\PcBuild\DAL\bin\Debug\DAL.dll.config
+C:\Users\Nadim\Desktop\PcBuild\DAL\bin\Debug\DAL.dll
+C:\Users\Nadim\Desktop\PcBuild\DAL\bin\Debug\DAL.pdb
+C:\Users\Nadim\Desktop\PcBuild\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Nadim\Desktop\PcBuild\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nadim\Desktop\PcBuild\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Nadim\Desktop\PcBuild\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nadim\Desktop\PcBuild\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Nadim\Desktop\PcBuild\DAL\obj\Debug\DAL.Migrations.InitSellerT.resources
+C:\Users\Nadim\Desktop\PcBuild\DAL\obj\Debug\DAL.Migrations.seedSellerData.resources
+C:\Users\Nadim\Desktop\PcBuild\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\Nadim\Desktop\PcBuild\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Nadim\Desktop\PcBuild\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Nadim\Desktop\PcBuild\DAL\obj\Debug\DAL.dll
+C:\Users\Nadim\Desktop\PcBuild\DAL\obj\Debug\DAL.pdb
+C:\Users\Nadim\Desktop\PcBuild\DAL\obj\Debug\DAL.Migrations.RecreatedTables.resources
+D:\ASP.Net Work\E-Commers-.net\DAL\bin\Debug\DAL.dll.config
+D:\ASP.Net Work\E-Commers-.net\DAL\bin\Debug\DAL.dll
+D:\ASP.Net Work\E-Commers-.net\DAL\bin\Debug\DAL.pdb
+D:\ASP.Net Work\E-Commers-.net\DAL\bin\Debug\EntityFramework.dll
+D:\ASP.Net Work\E-Commers-.net\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\ASP.Net Work\E-Commers-.net\DAL\bin\Debug\EntityFramework.xml
+D:\ASP.Net Work\E-Commers-.net\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\ASP.Net Work\E-Commers-.net\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\ASP.Net Work\E-Commers-.net\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\ASP.Net Work\E-Commers-.net\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\ASP.Net Work\E-Commers-.net\DAL\obj\Debug\DAL.dll
+D:\ASP.Net Work\E-Commers-.net\DAL\obj\Debug\DAL.pdb
+D:\ASP.Net Work\E-Commers-.net\DAL\bin\Debug\Antlr3.Runtime.dll
+D:\ASP.Net Work\E-Commers-.net\DAL\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\ASP.Net Work\E-Commers-.net\DAL\bin\Debug\Newtonsoft.Json.dll
+D:\ASP.Net Work\E-Commers-.net\DAL\bin\Debug\System.Web.Optimization.dll
+D:\ASP.Net Work\E-Commers-.net\DAL\bin\Debug\WebGrease.dll
+D:\ASP.Net Work\E-Commers-.net\DAL\bin\Debug\Antlr3.Runtime.pdb
+D:\ASP.Net Work\E-Commers-.net\DAL\bin\Debug\Newtonsoft.Json.xml
+D:\ASP.Net Work\E-Commers-.net\DAL\bin\Debug\System.Web.Optimization.xml
+D:\ASP.Net Work\E-Commers-.net\DAL\obj\Debug\DAL.Migrations.FixAll.resources
+D:\ASP.Net Work\E-Commers-.net\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\ASP.Net Work\E-Commers-.net\DAL\obj\Debug\DAL.Migrations.AddFeedBackTable.resources
+D:\ASP.Net Work\E-Commers-.net\DAL\obj\Debug\DAL.Migrations.AddTokenTable.resources
+D:\ASP.Net Work\E-Commers-.net\DAL\obj\Debug\DAL.Migrations.fixTokenTable.resources
+D:\ASP.Net Work\E-Commers-.net\DAL\obj\Debug\DAL.Migrations.modyfiTokenTable.resources
+C:\Users\pc\Source\Repos\E-Commers-.net\DAL\bin\Debug\DAL.dll.config
+C:\Users\pc\Source\Repos\E-Commers-.net\DAL\bin\Debug\DAL.dll
+C:\Users\pc\Source\Repos\E-Commers-.net\DAL\bin\Debug\DAL.pdb
+C:\Users\pc\Source\Repos\E-Commers-.net\DAL\bin\Debug\Antlr3.Runtime.dll
+C:\Users\pc\Source\Repos\E-Commers-.net\DAL\bin\Debug\EntityFramework.dll
+C:\Users\pc\Source\Repos\E-Commers-.net\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pc\Source\Repos\E-Commers-.net\DAL\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\pc\Source\Repos\E-Commers-.net\DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pc\Source\Repos\E-Commers-.net\DAL\bin\Debug\System.Web.Optimization.dll
+C:\Users\pc\Source\Repos\E-Commers-.net\DAL\bin\Debug\WebGrease.dll
+C:\Users\pc\Source\Repos\E-Commers-.net\DAL\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\pc\Source\Repos\E-Commers-.net\DAL\bin\Debug\EntityFramework.xml
+C:\Users\pc\Source\Repos\E-Commers-.net\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pc\Source\Repos\E-Commers-.net\DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pc\Source\Repos\E-Commers-.net\DAL\bin\Debug\System.Web.Optimization.xml
+C:\Users\pc\Source\Repos\E-Commers-.net\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\pc\Source\Repos\E-Commers-.net\DAL\obj\Debug\DAL.Migrations.FixAll.resources
+C:\Users\pc\Source\Repos\E-Commers-.net\DAL\obj\Debug\DAL.Migrations.AddFeedBackTable.resources
+C:\Users\pc\Source\Repos\E-Commers-.net\DAL\obj\Debug\DAL.Migrations.AddTokenTable.resources
+C:\Users\pc\Source\Repos\E-Commers-.net\DAL\obj\Debug\DAL.Migrations.fixTokenTable.resources
+C:\Users\pc\Source\Repos\E-Commers-.net\DAL\obj\Debug\DAL.Migrations.modyfiTokenTable.resources
+C:\Users\pc\Source\Repos\E-Commers-.net\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\pc\Source\Repos\E-Commers-.net\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\pc\Source\Repos\E-Commers-.net\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\pc\Source\Repos\E-Commers-.net\DAL\obj\Debug\DAL.dll
+C:\Users\pc\Source\Repos\E-Commers-.net\DAL\obj\Debug\DAL.pdb
+C:\Users\pc\source\repos\E-Commers-.net\DAL\obj\Debug\DAL.Migrations.FixAll1.resources
+C:\Users\pc\source\repos\E-Commers-.net\DAL\obj\Debug\DAL.Migrations.FixAll2.resources
+C:\Users\Nadim\Source\Repos\Final\DAL\bin\Debug\DAL.dll.config
+C:\Users\Nadim\Source\Repos\Final\DAL\bin\Debug\DAL.dll
+C:\Users\Nadim\Source\Repos\Final\DAL\bin\Debug\DAL.pdb
+C:\Users\Nadim\Source\Repos\Final\DAL\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Nadim\Source\Repos\Final\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Nadim\Source\Repos\Final\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nadim\Source\Repos\Final\DAL\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Nadim\Source\Repos\Final\DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nadim\Source\Repos\Final\DAL\bin\Debug\System.Web.Optimization.dll
+C:\Users\Nadim\Source\Repos\Final\DAL\bin\Debug\WebGrease.dll
+C:\Users\Nadim\Source\Repos\Final\DAL\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\Nadim\Source\Repos\Final\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Nadim\Source\Repos\Final\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nadim\Source\Repos\Final\DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nadim\Source\Repos\Final\DAL\bin\Debug\System.Web.Optimization.xml
+C:\Users\Nadim\Source\Repos\Final\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Nadim\Source\Repos\Final\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Nadim\Source\Repos\Final\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Nadim\Source\Repos\Final\DAL\obj\Debug\DAL.dll
+C:\Users\Nadim\Source\Repos\Final\DAL\obj\Debug\DAL.pdb
+C:\Users\Nadim\Source\Repos\Final\DAL\obj\Debug\DAL.Migrations.alltables.resources
+C:\Users\Nadim\Source\Repos\Final\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\addhr\Source\Repos\Final\DAL\bin\Debug\DAL.dll.config
+C:\Users\addhr\Source\Repos\Final\DAL\bin\Debug\DAL.dll
+C:\Users\addhr\Source\Repos\Final\DAL\bin\Debug\DAL.pdb
+C:\Users\addhr\Source\Repos\Final\DAL\bin\Debug\Antlr3.Runtime.dll
+C:\Users\addhr\Source\Repos\Final\DAL\bin\Debug\EntityFramework.dll
+C:\Users\addhr\Source\Repos\Final\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\addhr\Source\Repos\Final\DAL\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\addhr\Source\Repos\Final\DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\addhr\Source\Repos\Final\DAL\bin\Debug\System.Web.Optimization.dll
+C:\Users\addhr\Source\Repos\Final\DAL\bin\Debug\WebGrease.dll
+C:\Users\addhr\Source\Repos\Final\DAL\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\addhr\Source\Repos\Final\DAL\bin\Debug\EntityFramework.xml
+C:\Users\addhr\Source\Repos\Final\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\addhr\Source\Repos\Final\DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\addhr\Source\Repos\Final\DAL\bin\Debug\System.Web.Optimization.xml
+C:\Users\addhr\Source\Repos\Final\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\addhr\Source\Repos\Final\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\addhr\Source\Repos\Final\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\addhr\Source\Repos\Final\DAL\obj\Debug\DAL.dll
+C:\Users\addhr\Source\Repos\Final\DAL\obj\Debug\DAL.pdb
+C:\Users\addhr\source\repos\Final\DAL\obj\Debug\DAL.Migrations.OderA.resources
+C:\Users\addhr\source\repos\Final\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\Final\DAL\bin\Debug\DAL.dll.config
+C:\Users\pc\source\repos\Final\DAL\bin\Debug\DAL.dll
+C:\Users\pc\source\repos\Final\DAL\bin\Debug\DAL.pdb
+C:\Users\pc\source\repos\Final\DAL\bin\Debug\Antlr3.Runtime.dll
+C:\Users\pc\source\repos\Final\DAL\bin\Debug\EntityFramework.dll
+C:\Users\pc\source\repos\Final\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pc\source\repos\Final\DAL\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\pc\source\repos\Final\DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pc\source\repos\Final\DAL\bin\Debug\System.Web.Optimization.dll
+C:\Users\pc\source\repos\Final\DAL\bin\Debug\WebGrease.dll
+C:\Users\pc\source\repos\Final\DAL\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\pc\source\repos\Final\DAL\bin\Debug\EntityFramework.xml
+C:\Users\pc\source\repos\Final\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pc\source\repos\Final\DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pc\source\repos\Final\DAL\bin\Debug\System.Web.Optimization.xml
+C:\Users\pc\source\repos\Final\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Final\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Final\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\pc\source\repos\Final\DAL\obj\Debug\DAL.dll
+C:\Users\pc\source\repos\Final\DAL\obj\Debug\DAL.pdb
+C:\Users\pc\source\repos\Final\DAL\obj\Debug\DAL.Migrations.orderA.resources
+C:\Users\pc\source\repos\Final\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\Final\DAL\obj\Debug\DAL.Migrations.Sort.resources
+C:\Users\pc\source\repos\Final\DAL\obj\Debug\DAL.Migrations.Sort1.resources
+C:\Users\pc\source\repos\Final\DAL\obj\Debug\DAL.Migrations.Sort2.resources
+C:\Users\mdhri\Source\Repos\net_final\DAL\bin\Debug\DAL.dll.config
+C:\Users\mdhri\Source\Repos\net_final\DAL\bin\Debug\DAL.dll
+C:\Users\mdhri\Source\Repos\net_final\DAL\bin\Debug\DAL.pdb
+C:\Users\mdhri\Source\Repos\net_final\DAL\bin\Debug\Antlr3.Runtime.dll
+C:\Users\mdhri\Source\Repos\net_final\DAL\bin\Debug\EntityFramework.dll
+C:\Users\mdhri\Source\Repos\net_final\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mdhri\Source\Repos\net_final\DAL\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\mdhri\Source\Repos\net_final\DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mdhri\Source\Repos\net_final\DAL\bin\Debug\System.Web.Optimization.dll
+C:\Users\mdhri\Source\Repos\net_final\DAL\bin\Debug\WebGrease.dll
+C:\Users\mdhri\Source\Repos\net_final\DAL\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\mdhri\Source\Repos\net_final\DAL\bin\Debug\EntityFramework.xml
+C:\Users\mdhri\Source\Repos\net_final\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mdhri\Source\Repos\net_final\DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mdhri\Source\Repos\net_final\DAL\bin\Debug\System.Web.Optimization.xml
+C:\Users\mdhri\Source\Repos\net_final\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\mdhri\Source\Repos\net_final\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\mdhri\Source\Repos\net_final\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\mdhri\Source\Repos\net_final\DAL\obj\Debug\DAL.dll
+C:\Users\mdhri\Source\Repos\net_final\DAL\obj\Debug\DAL.pdb
+C:\Users\mdhri\source\repos\net_final\DAL\obj\Debug\DAL.Migrations.fix.resources
+C:\Users\mdhri\source\repos\net_final\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
